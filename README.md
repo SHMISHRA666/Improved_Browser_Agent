@@ -10,6 +10,9 @@ This project implements an **Agentic Query Assistant** that can:
 - **Execute** tasks using various tools (browser automation, document processing, web search, math)
 - **Summarize** results in user-friendly formats
 
+Demo - https://youtu.be/SIwSCQHRAy4
+
+
 ## 🏗️ Architecture
 
 ### Core Components
